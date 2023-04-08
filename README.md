@@ -3,5 +3,5 @@
 DMM WEBCAMPの学習コンテンツHTML/CSSを学ぼうの研修課題です。
 ## 使い方
 下記リンクで実行可能です。
-https://yk-mt12.github.io/omikuji/
+https://yk-mt12.github.io/omikuji-dmm-webcamp/
 # omikuji-dmm-webcamp
